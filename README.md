@@ -5,7 +5,7 @@ By James Kowalik
 How have air temperature, total precipitation and relative humidity changed in Chiyoda, Japan over the last century and how do they compare to Michigan, USA?
 
 - Report : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md
-- Graphic :
+- Graphic : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png
 
 Completed in Jupyter Notebook using Python.
 
