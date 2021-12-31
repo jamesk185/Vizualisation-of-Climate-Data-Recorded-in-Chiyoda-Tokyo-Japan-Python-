@@ -6,13 +6,13 @@ Link to Report : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Reco
 
 Link to Graphic : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png
 
-### Overview
+### Overview:
 
 - Written and programmed with Python using Jupyter Notebook.
 - Data processing and cleaning.
 - Data visualization.
 
-### Background
+### Background:
 
 How have air temperature, total precipitation and relative humidity changed in Chiyoda, Japan over the last century and how do they compare to Michigan, USA?
 
