@@ -3,6 +3,7 @@
 A data science project completed as part of the *Applied Plotting, Charting & Data Representation in Python* course by University of Michigan.
 
 Link to Report : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md
+
 Link to Graphic : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Graph.png
 
 ### Overview
