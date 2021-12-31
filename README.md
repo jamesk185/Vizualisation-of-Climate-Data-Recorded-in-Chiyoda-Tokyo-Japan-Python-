@@ -1,6 +1,6 @@
 # Vizualisation of Climate Data Recorded in Chiyoda, Japan
 
-A data science project completed as part of the *Applied Plotting, Charting & Data Representation in Python* course by University of Michigan completed in December 2021.
+A data science project completed as part of the *Applied Plotting, Charting & Data Representation in Python* course by University of Michigan. Completed in December 2021.
 
 Link to Report : https://github.com/jamesk185/Vizualisation-of-Climate-Data-Recorded-in-Chiyoda-Tokyo-Japan-Python-/blob/main/Report.md
 
